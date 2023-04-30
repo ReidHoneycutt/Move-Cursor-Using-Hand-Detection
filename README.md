@@ -6,7 +6,7 @@ In this one the position of the hand dictates the position of a projection of th
 
 https://user-images.githubusercontent.com/30945205/235340716-d11d47c7-26f1-41cd-baf0-3c7fe727bd37.mp4
 
-In this one the cursor divides a rectangle-based representation of a quad tree data structure.
+In this one the cursor divides a rectangle-based representation of a quad tree data structure. More about this one in my repo entitled "Dividing Rectangles".
 
 https://user-images.githubusercontent.com/30945205/235340705-97f550ab-19a6-4c8a-987f-0a497d66e4a0.mp4
 
