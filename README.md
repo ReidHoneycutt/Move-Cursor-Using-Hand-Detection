@@ -1,6 +1,6 @@
 # Move-Cursor-Using-Hand-Detection
 
-This program implements a simple way (without using sockets) to affect the mouse position. Firstly it uses cvzone and mediapipe for the hand tracking. Then it uses the library pyautogui to change the position of the mouse. Once the python program is running, the visual is done using p5.js.
+This program implements a simple way (without using sockets) to affect the mouse position. Firstly it uses cvzone and mediapipe for the hand tracking. Then it uses the library pyautogui to change the position of the mouse. Once the python program is running, the visual is done using p5.js, a javascript library.
 
 In this one the position of the hand dictates the position of a projection of the points obtained from the human pose tracker reflected across a poincare-disk using hyperbolic geometry, more about this in my repo entitled "Hyberbolic-Projection-of-Human-Wire-Frame".
 
