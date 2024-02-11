@@ -1,9 +1,6 @@
 import cv2
 import pyautogui
-import time
-import random
 from cvzone.HandTrackingModule import HandDetector
-import math
 
 
 def init_cap():
