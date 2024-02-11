@@ -26,8 +26,6 @@ def move_cursor(cap, detector):
         if hands:
             pyautogui.moveTo(1920-(7/6)*hands[0]["lmList"][8][0], (1/2)*hands[0]["lmList"][8][1])
 
-        cv2.waitKey(0)
-
 
 def main():
     cap = init_cap()
